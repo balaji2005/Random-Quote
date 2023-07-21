@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+#quote{
+  color: chartreuse;
+  margin: 0.2rem;
+  /* box-shadow: ; */
+}
+
+#author{
+  text-align: right;
+  width: 100%;
+  margin-right: 50px;
+}
+
+button {
+  width: 100px;
+  height: 35px;
+  border-radius: 8px;
+  background-color: rgb(20, 16, 69);
+  color: white;
+  font-weight: bold;
+}
